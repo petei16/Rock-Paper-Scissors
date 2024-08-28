@@ -31,7 +31,11 @@ Main function:  <br/>
 <img src="https://i.imgur.com/0GVkel3.png" height="80%" width="80%" alt="main1"/>
 <img src="https://i.imgur.com/W7vZD6F.png" height="80%" width="80%" alt="main2"/>
 <img src="https://i.imgur.com/k6yHgYi.png" height="80%" width="80%" alt="main3"/>
-
+<br />
+Game examples: <br/>
+<img src="https://i.imgur.com/AXdwdfJ.png" height="80%" width="80%" alt="ex1"/>
+<img src="https://i.imgur.com/rFIYJKh.png" height="80%" width="80%" alt="ex1"/>
+<img src="https://i.imgur.com/X426DeY.png" height="80%" width="80%" alt="ex1"/>
 </p>
 
 <!--
